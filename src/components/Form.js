@@ -1,5 +1,19 @@
+
+
+
+
 const Form = () => {
-    return <h1>Form</h1>
+    return(
+        <form>
+            <input type="text" />
+            <input type="submit" value="Search"/>
+
+        </form>
+
+
+
+
+    )
 }
 
 export default Form
